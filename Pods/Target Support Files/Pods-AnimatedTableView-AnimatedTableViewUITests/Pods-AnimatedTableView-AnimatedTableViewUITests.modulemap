@@ -1,0 +1,6 @@
+framework module Pods_AnimatedTableView_AnimatedTableViewUITests {
+  umbrella header "Pods-AnimatedTableView-AnimatedTableViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
